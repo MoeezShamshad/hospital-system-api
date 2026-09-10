@@ -28,7 +28,7 @@ public class HospitalDTO {
 	@Schema(description = "Hospital Code", example = "STLUKE", maxLength = 10)
 	private String code;
 
-	@Schema(description = "Hospital Description", example = "St. Luke HOSPITAL - Angal", maxLength = 255)
+	@Schema(description = "Hospital Description", example = " HOSPITAL - Angal", maxLength = 255)
 	private String description;
 
 	@Schema(description = "Hospital Address", example = "Hospital Address", maxLength = 255)

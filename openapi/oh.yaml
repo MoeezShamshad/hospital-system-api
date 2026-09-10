@@ -7649,7 +7649,7 @@ components:
         description:
           type: string
           description: Hospital Description
-          example: St. Luke HOSPITAL - Angal
+          example: GST Hospital
           maxLength: 255
         address:
           type: string
